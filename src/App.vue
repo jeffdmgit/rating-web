@@ -27,7 +27,6 @@ body {
 html {
   line-height: 1;
 }
-
 .at-notification {
   position: fixed;
   display: -webkit-box;
@@ -37,7 +36,8 @@ html {
   width: 320px;
   padding: 8px 16px;
   font-family: "Graduate", sans-serif;
-  background-color: #444;
+  //background-color: #444;
+  background-color: #b0b0f0;
   line-height: 1.5;
   border-radius: 0px;
 }
